@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/inuka-properties-website/static/css/main.34059681.css",
+    "main.js": "/inuka-properties-website/static/js/main.bc6568b3.js",
+    "index.html": "/inuka-properties-website/index.html",
+    "main.34059681.css.map": "/inuka-properties-website/static/css/main.34059681.css.map",
+    "main.bc6568b3.js.map": "/inuka-properties-website/static/js/main.bc6568b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34059681.css",
+    "static/js/main.bc6568b3.js"
+  ]
+}

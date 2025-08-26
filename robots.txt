@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+
+# Disallow access to sensitive areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /logs/
+Disallow: /backup/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-content/
+Disallow: /wp-includes/
+
+# Block bad bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+# Sitemap location (update with your actual sitemap URL)
+Sitemap: https://inukaproperties.co.ke/sitemap.xml
